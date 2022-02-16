@@ -1,7 +1,3 @@
-## 团队介绍：
-队伍名称：tricks \
-队伍成员： 张卫良（江南大学研二）研究方向：2D目标检测 
-
 ### [比赛地址](https://www.sodic.com.cn/competitions/900013)
 ### 2021.7.17 models/dense_heads/anchor_head.py中有个bug，已改正
 
